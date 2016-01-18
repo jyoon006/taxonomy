@@ -1,4 +1,4 @@
-var Grub = function() {
+var Grub = function(food) {
   this.age = 0;
   this.color = 'pink';
   this.food = 'jelly';
